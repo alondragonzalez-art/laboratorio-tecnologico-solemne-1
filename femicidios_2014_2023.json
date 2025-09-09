@@ -1,0 +1,1442 @@
+[
+  {
+    "anio": 2014.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 2.5
+  },
+  {
+    "anio": 2014.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 1.0
+  },
+  {
+    "anio": 2014.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 0.0,
+    "tasa_frustrados": 0.0
+  },
+  {
+    "anio": 2014.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 12.0,
+    "tasa_frustrados": 3.1
+  },
+  {
+    "anio": 2014.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 14.0,
+    "tasa_frustrados": 1.5
+  },
+  {
+    "anio": 2014.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.3
+  },
+  {
+    "anio": 2014.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 0.7
+  },
+  {
+    "anio": 2014.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 6.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 0.5
+  },
+  {
+    "anio": 2014.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 0.2
+  },
+  {
+    "anio": 2014.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 7.0,
+    "tasa_frustrados": 1.6
+  },
+  {
+    "anio": 2014.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 3.9
+  },
+  {
+    "anio": 2014.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 1.2,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 2.4
+  },
+  {
+    "anio": 2014.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 19.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 33.0,
+    "tasa_frustrados": 0.9
+  },
+  {
+    "anio": 2014.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 1.0,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 1.5
+  },
+  {
+    "anio": 2014.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 1.7
+  },
+  {
+    "anio": 2014.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 2.4
+  },
+  {
+    "anio": 2015.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 7.0,
+    "tasa_frustrados": 4.3
+  },
+  {
+    "anio": 2015.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 7.0,
+    "tasa_frustrados": 2.3
+  },
+  {
+    "anio": 2015.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 2.0,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 2.7
+  },
+  {
+    "anio": 2015.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 2.6
+  },
+  {
+    "anio": 2015.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 5.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 1.1
+  },
+  {
+    "anio": 2015.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 0.9,
+    "femicidios_frustrados": 8.0,
+    "tasa_frustrados": 1.7
+  },
+  {
+    "anio": 2015.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 0.6
+  },
+  {
+    "anio": 2015.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 0.7
+  },
+  {
+    "anio": 2015.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 6.0,
+    "tasa_consumados": 1.2,
+    "femicidios_frustrados": 5.0,
+    "tasa_frustrados": 1.0
+  },
+  {
+    "anio": 2015.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 2.3
+  },
+  {
+    "anio": 2015.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 2.0,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 5.9
+  },
+  {
+    "anio": 2015.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 3.6
+  },
+  {
+    "anio": 2015.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 13.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 22.0,
+    "tasa_frustrados": 0.6
+  },
+  {
+    "anio": 2015.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 3.0
+  },
+  {
+    "anio": 2015.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 3.4
+  },
+  {
+    "anio": 2015.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 1.6
+  },
+  {
+    "anio": 2016.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 6.0
+  },
+  {
+    "anio": 2016.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 1.0,
+    "femicidios_frustrados": 11.0,
+    "tasa_frustrados": 3.6
+  },
+  {
+    "anio": 2016.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 2.7
+  },
+  {
+    "anio": 2016.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 0.8
+  },
+  {
+    "anio": 2016.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 11.0,
+    "tasa_frustrados": 1.2
+  },
+  {
+    "anio": 2016.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.3
+  },
+  {
+    "anio": 2016.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 1.8
+  },
+  {
+    "anio": 2016.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 5.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 11.0,
+    "tasa_frustrados": 1.3
+  },
+  {
+    "anio": 2016.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 0.8
+  },
+  {
+    "anio": 2016.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 2.3
+  },
+  {
+    "anio": 2016.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 1.9
+  },
+  {
+    "anio": 2016.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 3.6
+  },
+  {
+    "anio": 2016.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 16.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 37.0,
+    "tasa_frustrados": 1.0
+  },
+  {
+    "anio": 2016.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 1.5
+  },
+  {
+    "anio": 2016.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 1.7
+  },
+  {
+    "anio": 2016.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 1.2
+  },
+  {
+    "anio": 2017.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 3.5
+  },
+  {
+    "anio": 2017.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 8.0,
+    "tasa_frustrados": 2.6
+  },
+  {
+    "anio": 2017.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 2.0
+  },
+  {
+    "anio": 2017.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 1.0
+  },
+  {
+    "anio": 2017.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 13.0,
+    "tasa_frustrados": 1.3
+  },
+  {
+    "anio": 2017.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 5.0,
+    "tasa_consumados": 1.0,
+    "femicidios_frustrados": 12.0,
+    "tasa_frustrados": 2.5
+  },
+  {
+    "anio": 2017.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.1
+  },
+  {
+    "anio": 2017.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 12.0,
+    "tasa_frustrados": 1.4
+  },
+  {
+    "anio": 2017.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 7.0,
+    "tasa_frustrados": 1.4
+  },
+  {
+    "anio": 2017.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 11.0,
+    "tasa_frustrados": 2.5
+  },
+  {
+    "anio": 2017.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 5.8,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 1.9
+  },
+  {
+    "anio": 2017.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 2.4
+  },
+  {
+    "anio": 2017.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 16.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 24.0,
+    "tasa_frustrados": 0.6
+  },
+  {
+    "anio": 2017.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 1.0,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 0.5
+  },
+  {
+    "anio": 2017.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 2.5
+  },
+  {
+    "anio": 2017.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 1.2,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 0.8
+  },
+  {
+    "anio": 2018.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 2.3
+  },
+  {
+    "anio": 2018.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 5.0,
+    "tasa_frustrados": 1.6
+  },
+  {
+    "anio": 2018.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 2.6
+  },
+  {
+    "anio": 2018.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.5
+  },
+  {
+    "anio": 2018.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 15.0,
+    "tasa_frustrados": 1.5
+  },
+  {
+    "anio": 2018.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 11.0,
+    "tasa_frustrados": 2.3
+  },
+  {
+    "anio": 2018.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 9.0,
+    "tasa_frustrados": 1.6
+  },
+  {
+    "anio": 2018.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 8.0,
+    "tasa_frustrados": 0.9
+  },
+  {
+    "anio": 2018.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 6.0,
+    "tasa_consumados": 1.2,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 2.0
+  },
+  {
+    "anio": 2018.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 2.3
+  },
+  {
+    "anio": 2018.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 0.0,
+    "tasa_frustrados": 0.0
+  },
+  {
+    "anio": 2018.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 5.0,
+    "tasa_frustrados": 5.9
+  },
+  {
+    "anio": 2018.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 14.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 30.0,
+    "tasa_frustrados": 0.8
+  },
+  {
+    "anio": 2018.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 2.0,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 1.5
+  },
+  {
+    "anio": 2018.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 0.8
+  },
+  {
+    "anio": 2018.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 0.0,
+    "tasa_frustrados": 0.0
+  },
+  {
+    "anio": 2019.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 2.2
+  },
+  {
+    "anio": 2019.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.9,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 1.2
+  },
+  {
+    "anio": 2019.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 1.3
+  },
+  {
+    "anio": 2019.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.4
+  },
+  {
+    "anio": 2019.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 6.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 8.0,
+    "tasa_frustrados": 0.8
+  },
+  {
+    "anio": 2019.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 0.8,
+    "femicidios_frustrados": 11.0,
+    "tasa_frustrados": 2.2
+  },
+  {
+    "anio": 2019.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.1
+  },
+  {
+    "anio": 2019.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 5.0,
+    "tasa_frustrados": 0.6
+  },
+  {
+    "anio": 2019.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 9.0,
+    "tasa_frustrados": 1.7
+  },
+  {
+    "anio": 2019.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 8.0,
+    "tasa_consumados": 1.8,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.4
+  },
+  {
+    "anio": 2019.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 5.7
+  },
+  {
+    "anio": 2019.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 1.2,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 1.2
+  },
+  {
+    "anio": 2019.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 14.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 26.0,
+    "tasa_frustrados": 0.6
+  },
+  {
+    "anio": 2019.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 1.0,
+    "femicidios_frustrados": 7.0,
+    "tasa_frustrados": 3.4
+  },
+  {
+    "anio": 2019.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 1.6,
+    "femicidios_frustrados": 8.0,
+    "tasa_frustrados": 6.5
+  },
+  {
+    "anio": 2019.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.8,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 1.1
+  },
+  {
+    "anio": 2020.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 3.2
+  },
+  {
+    "anio": 2020.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.7
+  },
+  {
+    "anio": 2020.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 1.3,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 1.9
+  },
+  {
+    "anio": 2020.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 11.0,
+    "tasa_frustrados": 2.6
+  },
+  {
+    "anio": 2020.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 8.0,
+    "tasa_consumados": 0.8,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 1.0
+  },
+  {
+    "anio": 2020.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 6.0,
+    "tasa_consumados": 1.2,
+    "femicidios_frustrados": 7.0,
+    "tasa_frustrados": 1.4
+  },
+  {
+    "anio": 2020.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 5.0,
+    "tasa_frustrados": 0.9
+  },
+  {
+    "anio": 2020.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 1.2
+  },
+  {
+    "anio": 2020.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 15.0,
+    "tasa_frustrados": 2.9
+  },
+  {
+    "anio": 2020.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 9.0,
+    "tasa_frustrados": 2.0
+  },
+  {
+    "anio": 2020.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 1.9,
+    "femicidios_frustrados": 0.0,
+    "tasa_frustrados": 0.0
+  },
+  {
+    "anio": 2020.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 4.6
+  },
+  {
+    "anio": 2020.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 9.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 42.0,
+    "tasa_frustrados": 1.0
+  },
+  {
+    "anio": 2020.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 1.4,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 4.8
+  },
+  {
+    "anio": 2020.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.8,
+    "femicidios_frustrados": 8.0,
+    "tasa_frustrados": 6.4
+  },
+  {
+    "anio": 2020.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 5.0,
+    "tasa_frustrados": 1.9
+  },
+  {
+    "anio": 2021.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 1.0,
+    "femicidios_frustrados": 12.0,
+    "tasa_frustrados": 6.1
+  },
+  {
+    "anio": 2021.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.9,
+    "femicidios_frustrados": 7.0,
+    "tasa_frustrados": 2.0
+  },
+  {
+    "anio": 2021.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 1.3
+  },
+  {
+    "anio": 2021.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 0.9
+  },
+  {
+    "anio": 2021.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 32.0,
+    "tasa_frustrados": 3.1
+  },
+  {
+    "anio": 2021.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 0.8
+  },
+  {
+    "anio": 2021.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 3.0,
+    "tasa_frustrados": 0.5
+  },
+  {
+    "anio": 2021.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 13.0,
+    "tasa_frustrados": 1.5
+  },
+  {
+    "anio": 2021.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 18.0,
+    "tasa_frustrados": 3.4
+  },
+  {
+    "anio": 2021.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 13.0,
+    "tasa_frustrados": 2.9
+  },
+  {
+    "anio": 2021.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 1.9
+  },
+  {
+    "anio": 2021.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 1.1
+  },
+  {
+    "anio": 2021.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 20.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 37.0,
+    "tasa_frustrados": 0.9
+  },
+  {
+    "anio": 2021.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 10.0,
+    "tasa_frustrados": 4.8
+  },
+  {
+    "anio": 2021.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.8,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 3.1
+  },
+  {
+    "anio": 2021.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 0.7
+  },
+  {
+    "anio": 2022.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 14.0,
+    "tasa_frustrados": 7.1
+  },
+  {
+    "anio": 2022.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 7.0,
+    "tasa_frustrados": 2.0
+  },
+  {
+    "anio": 2022.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 2.5
+  },
+  {
+    "anio": 2022.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.2,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.4
+  },
+  {
+    "anio": 2022.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 6.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 25.0,
+    "tasa_frustrados": 2.5
+  },
+  {
+    "anio": 2022.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 9.0,
+    "tasa_frustrados": 1.8
+  },
+  {
+    "anio": 2022.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 5.0,
+    "tasa_frustrados": 0.9
+  },
+  {
+    "anio": 2022.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 17.0,
+    "tasa_frustrados": 2.0
+  },
+  {
+    "anio": 2022.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 29.0,
+    "tasa_frustrados": 5.5
+  },
+  {
+    "anio": 2022.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 7.0,
+    "tasa_consumados": 1.5,
+    "femicidios_frustrados": 26.0,
+    "tasa_frustrados": 5.7
+  },
+  {
+    "anio": 2022.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 3.7
+  },
+  {
+    "anio": 2022.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 0.0,
+    "tasa_frustrados": 0.0
+  },
+  {
+    "anio": 2022.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 11.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 29.0,
+    "tasa_frustrados": 0.7
+  },
+  {
+    "anio": 2022.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 1.0,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 0.5
+  },
+  {
+    "anio": 2022.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 1.6,
+    "femicidios_frustrados": 5.0,
+    "tasa_frustrados": 3.9
+  },
+  {
+    "anio": 2022.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 0.4
+  },
+  {
+    "anio": 2023.0,
+    "region": "Arica y Parinacota",
+    "codigo_region": 15.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 2.0,
+    "tasa_frustrados": 1.6
+  },
+  {
+    "anio": 2023.0,
+    "region": "Tarapacá",
+    "codigo_region": 1.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 19.0,
+    "tasa_frustrados": 9.5
+  },
+  {
+    "anio": 2023.0,
+    "region": "Antofagasta",
+    "codigo_region": 2.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 6.0,
+    "tasa_frustrados": 1.7
+  },
+  {
+    "anio": 2023.0,
+    "region": "Atacama",
+    "codigo_region": 3.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 9.0,
+    "tasa_frustrados": 5.7
+  },
+  {
+    "anio": 2023.0,
+    "region": "Coquimbo",
+    "codigo_region": 4.0,
+    "femicidios_consumados": 2.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 8.0,
+    "tasa_frustrados": 1.8
+  },
+  {
+    "anio": 2023.0,
+    "region": "Valparaíso",
+    "codigo_region": 5.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 27.0,
+    "tasa_frustrados": 2.6
+  },
+  {
+    "anio": 2023.0,
+    "region": "Metropolitana",
+    "codigo_region": 13.0,
+    "femicidios_consumados": 12.0,
+    "tasa_consumados": 0.3,
+    "femicidios_frustrados": 64.0,
+    "tasa_frustrados": 1.5
+  },
+  {
+    "anio": 2023.0,
+    "region": "O'Higgins",
+    "codigo_region": 6.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.6,
+    "femicidios_frustrados": 18.0,
+    "tasa_frustrados": 3.5
+  },
+  {
+    "anio": 2023.0,
+    "region": "Maule",
+    "codigo_region": 7.0,
+    "femicidios_consumados": 3.0,
+    "tasa_consumados": 0.5,
+    "femicidios_frustrados": 12.0,
+    "tasa_frustrados": 2.0
+  },
+  {
+    "anio": 2023.0,
+    "region": "Ñuble",
+    "codigo_region": 16.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 0.4,
+    "femicidios_frustrados": 15.0,
+    "tasa_frustrados": 5.6
+  },
+  {
+    "anio": 2023.0,
+    "region": "Biobío",
+    "codigo_region": 8.0,
+    "femicidios_consumados": 6.0,
+    "tasa_consumados": 0.7,
+    "femicidios_frustrados": 15.0,
+    "tasa_frustrados": 1.7
+  },
+  {
+    "anio": 2023.0,
+    "region": "La Araucanía",
+    "codigo_region": 9.0,
+    "femicidios_consumados": 5.0,
+    "tasa_consumados": 0.9,
+    "femicidios_frustrados": 37.0,
+    "tasa_frustrados": 7.0
+  },
+  {
+    "anio": 2023.0,
+    "region": "Los Ríos",
+    "codigo_region": 14.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 9.0,
+    "tasa_frustrados": 4.3
+  },
+  {
+    "anio": 2023.0,
+    "region": "Los Lagos",
+    "codigo_region": 10.0,
+    "femicidios_consumados": 4.0,
+    "tasa_consumados": 0.9,
+    "femicidios_frustrados": 13.0,
+    "tasa_frustrados": 2.8
+  },
+  {
+    "anio": 2023.0,
+    "region": "Aysén",
+    "codigo_region": 11.0,
+    "femicidios_consumados": 0.0,
+    "tasa_consumados": 0.0,
+    "femicidios_frustrados": 4.0,
+    "tasa_frustrados": 7.4
+  },
+  {
+    "anio": 2023.0,
+    "region": "Magallanes",
+    "codigo_region": 12.0,
+    "femicidios_consumados": 1.0,
+    "tasa_consumados": 1.1,
+    "femicidios_frustrados": 1.0,
+    "tasa_frustrados": 1.1
+  }
+]
